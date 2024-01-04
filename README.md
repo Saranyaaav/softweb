@@ -741,4 +741,6 @@ border:2px solid white;
 ![Alt text](<Screenshot 2023-12-17 145832.png>)
 
 ## RESULT:
+___
 The program for designing software company website using HTML and CSS is completed successfully.
+___
